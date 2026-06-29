@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=23C9A1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alberto+Brc!;Business+Intelligence+Specialist" alt="Animated typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=23C9A1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alberto+Brc!;Analista+de+Datos" alt="Animated typing intro" />
 </p>
 
 ---
